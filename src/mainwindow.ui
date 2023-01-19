@@ -306,7 +306,7 @@ font: 24pt &quot;.AppleSystemUIFont&quot;;
 background-color: rgb(127, 126, 128);</string>
        </property>
        <property name="text">
-        <string>log</string>
+        <string>ln</string>
        </property>
        <property name="autoDefault">
         <bool>false</bool>
@@ -354,7 +354,7 @@ font: 24pt &quot;.AppleSystemUIFont&quot;;
 background-color: rgb(205, 130, 47);</string>
        </property>
        <property name="text">
-        <string>÷</string>
+        <string>/</string>
        </property>
       </widget>
       <widget class="QPushButton" name="Button_bracketclosing">
@@ -547,8 +547,8 @@ background-color: rgb(127, 126, 128);</string>
       <widget class="QWidget" name="formLayoutWidget_3">
        <property name="geometry">
         <rect>
-         <x>450</x>
-         <y>340</y>
+         <x>440</x>
+         <y>350</y>
          <width>341</width>
          <height>241</height>
         </rect>
@@ -1099,7 +1099,7 @@ font: 24pt &quot;.AppleSystemUIFont&quot;;
 background-color: rgb(205, 130, 47);</string>
        </property>
        <property name="text">
-        <string>•</string>
+        <string>*</string>
        </property>
       </widget>
       <widget class="QPushButton" name="Button_tan">
@@ -2139,7 +2139,7 @@ font: 24pt &quot;.AppleSystemUIFont&quot;;
 background-color: rgb(127, 126, 128);</string>
        </property>
        <property name="text">
-        <string>ln</string>
+        <string>log</string>
        </property>
        <property name="autoDefault">
         <bool>false</bool>
